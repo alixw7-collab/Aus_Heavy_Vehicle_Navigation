@@ -1,0 +1,25 @@
+# PostgreSQL database backups containing data
+*.backup
+*.dump
+
+# Allow schema-only SQL scripts
+!database/**/*.sql
+
+# Raw GIS datasets
+data/nhvr/raw/*
+data/nhvr/processed/*
+data/osm/raw/*
+data/osm/processed/*
+
+# Preserve empty folders
+!data/**/.gitkeep
+
+# QGIS temporary and backup files
+*.qgz~
+*.qgs~
+*.qgd
+
+# Local configuration and secrets
+.env
+*.env
+config.local.*
