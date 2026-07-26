@@ -356,3 +356,33 @@ Summarise whether the dataset appears suitable for:
 
 
 
+## 13. PostgreSQL Staging Import
+
+**Import date:** 27 July 2026  
+**Database:** `heavy_vehicle_navigation`  
+**Schema:** `staging`  
+**Table:** `staging.nhvr_qld_26m_bdouble_raw`  
+**Import method:** QGIS DB Manager  
+**Source layer:**  
+**Imported feature count:**  
+**Geometry column:**  
+**Geometry type:**  
+**Source SRID:**  
+**Null geometry count:**  
+**Invalid geometry count:**  0
+**Multipart feature count:**  
+**Exact duplicate geometries found:**  0
+
+### Import observations
+
+Record any:
+
+- field-name changes;
+- truncated text fields;
+- unexpected null values;
+- QGIS warnings;
+- geometry conversion;
+- CRS warnings;
+- feature-count differences.
+
+
