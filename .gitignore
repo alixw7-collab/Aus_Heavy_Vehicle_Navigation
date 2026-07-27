@@ -10,6 +10,7 @@ data/nhvr/raw/*
 data/nhvr/processed/*
 data/osm/raw/*
 data/osm/processed/*
+database/osm2pgwql/osm_roads.lua/*
 
 # Preserve empty folders
 !data/**/.gitkeep
@@ -23,3 +24,27 @@ data/osm/processed/*
 .env
 *.env
 config.local.*
+
+
+# OSM data
+data/
+*.osm.pbf
+
+# PostgreSQL
+*.backup
+*.dump
+
+# GIS outputs
+*.gpkg
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+Thumbs.db
