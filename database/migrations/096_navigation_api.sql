@@ -41,7 +41,7 @@ AS $function$
 
 WITH route AS MATERIALIZED (
     SELECT *
-    FROM hvn.route_between_coordinates(
+    FROM hvn.route_between_coordinates_adaptive(
         p_start_latitude,
         p_start_longitude,
         p_end_latitude,
