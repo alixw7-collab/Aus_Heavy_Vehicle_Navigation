@@ -556,3 +556,34 @@ Once Version 0.2 is proven, the system can add:
 
 
 
+\# Project RoadTrain — Version 0.6 Architecture
+
+Project RoadTrain Architecture
+
+1. Vision
+2. Design Philosophy
+3. Overall Architecture
+4. Database Architecture
+5. Routing Pipeline
+6. Navigation Pipeline
+7. Future Components
+8. Version History
+
+
+                    Mobile App
+                         │
+                    REST API (future)
+                         │
+                hvn.navigate()
+                         │
+      route_between_coordinates_adaptive()
+                         │
+          route_between_coordinates()
+                         │
+          calculate_vehicle_route()
+                         │
+                    pgRouting
+                         │
+                 routing_edge graph
+                         │
+                 OSM + NHVR Data
