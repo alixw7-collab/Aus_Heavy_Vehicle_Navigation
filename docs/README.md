@@ -1,3 +1,58 @@
+# Project RoadTrain
+
+## Driver built truck GPS for real-world heavy vehicle operations.
+
+Project RoadTrain is an Australia-first heavy vehicle navigation and operations platform designed from the perspective of professional truck drivers.
+
+The project combines intelligent routing, vehicle-specific compliance, and operational knowledge to support the real-world challenges of heavy vehicle transport.
+
+Rather than simply calculating the shortest path, Project RoadTrain is being engineered to help drivers and transport operators make safer, more informed and compliant journey decisions.
+
+## Core Principles
+
+- Safety first
+- Compliance by design
+- Built around real transport operations
+- Preserve driver knowledge
+- Support transport companies of every size
+- Performance and reliability
+
+
+Project RoadTrain isn't trying to replace existing navigation systems. It's building the heavy vehicle operations platform that many professional drivers wish they already had.
+
+
+** Vision Statement **
+To become Australia's most trusted heavy vehicle navigation and operations platform by combining intelligent routing with the practical knowledge of professional drivers.
+
+
+** Mission Statement **
+To make every heavy vehicle journey safer, more compliant and easier by transforming real driver experience into intelligent transport software.
+
+
+Project RoadTrain
+Driver built truck GPS for real-world heavy vehicle operations.
+
+Project RoadTrain is an Australia-focused heavy vehicle navigation and operations platform designed from the perspective of professional truck drivers.
+
+Unlike conventional truck navigation systems, Project RoadTrain combines intelligent routing with operational knowledge to support the day-to-day realities of heavy vehicle transport.
+
+Project RoadTrain is being engineered to provide:
+
+Vehicle-aware routing
+Heavy vehicle compliance checking
+Dangerous goods intelligence
+Combination-specific routing
+Approved route libraries
+Company route books
+Driver knowledge capture
+Journey planning and operational support
+
+The goal is simple:
+
+Help heavy vehicle drivers complete every journey more safely, more efficiently and with greater confidence.
+
+
+
 🚛 Project RoadTrain
 Australian Heavy Vehicle Routing Platform
 
